@@ -1,0 +1,4 @@
+name: YaBoard
+main: com.yallage.plugins.board.MainClass
+version: 0.1
+author: Aster
